@@ -3,24 +3,21 @@ Sebastien Johnson
 Back-end Developer
 
 ## Contacts
-https://github.com/Sebastien-Johnson
-419-514-0997
-sebastien.z.johnson@gmail.com
+- https://github.com/Sebastien-Johnson
+- 419-514-0997
+- sebastien.z.johnson@gmail.com
 
-ㅡ
 ## Skills
 Go, Python
 Django, SQLite
 RabbitMQ, Docker
 
-ㅡ
 ## Projects
 dine_designs
 A recipe sharing web app that allows for CRUD, commenting, reviewing, searching and filtering posts
 I built this to build an app that feels good to users across a broad age range as I collect family secrets recipes
 Based in python, using django as the framework and sqlite for the database structure
 
-ㅡ
 ## Experience
 
 ### Fit Technologies / IT Field Technician
@@ -33,7 +30,7 @@ June 2020 - May 2022,  Maumee, Ohio
 - Responsible for handling and processing of sensitive materials for Vital Records’ primary shredding facility
 - Coordinated material processing and shipment timing with warehouse storage availability
 
-ㅡ
+
 ## Education
 
 ### Web Courses / [Boot.dev](https://www.boot.dev/u/syntaxian_runeslinger)
