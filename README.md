@@ -1,6 +1,5 @@
 # sebastien-johnson.github.io
-Sebastien Johnson
-Back-end Developer
+Sebastien Johnson, Back-end Developer
 
 ## Contacts
 - https://github.com/Sebastien-Johnson
@@ -8,12 +7,12 @@ Back-end Developer
 - sebastien.z.johnson@gmail.com
 
 ## Skills
-Go, Python
-Django, SQLite
-RabbitMQ, Docker
+- Go, Python
+- Django, SQLite
+- RabbitMQ, Docker
 
 ## Projects
-dine_designs
+dine_designs\n
 A recipe sharing web app that allows for CRUD, commenting, reviewing, searching and filtering posts
 I built this to build an app that feels good to users across a broad age range as I collect family secrets recipes
 Based in python, using django as the framework and sqlite for the database structure
