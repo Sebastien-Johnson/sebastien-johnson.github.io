@@ -37,6 +37,7 @@ June 2020 - May 2022,  Maumee, Ohio
 - Big-O DSA, OOP & Functional Programming (Go, Python)
 - Pub/Sub Architecture (RabbitMQ, Docker)
 - File Servers & CDNs (S3, Cloudfront)
+
 ### School / St. Johns Jesuit Highschool & Academy
 - Java Programming Course
 - Lego Robotics & Engineering Courses
