@@ -12,7 +12,7 @@ Sebastien Johnson, Back-end Developer
 - RabbitMQ, Docker
 
 ## Projects
-dine_designs<br>
+[dine_designs](https://github.com/Sebastien-Johnson/dine_designs)<br>
 A recipe sharing web app that allows for CRUD, commenting, reviewing, searching and filtering posts
 I built this to build an app that feels good to users across a broad age range as I collect family secrets recipes
 Based in python, using django as the framework and sqlite for the database structure
