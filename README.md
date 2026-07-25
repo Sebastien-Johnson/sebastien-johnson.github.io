@@ -24,6 +24,7 @@ June  2022 - PRESENT, Toledo, Ohio
 - Sole technician for remote-on-site client servicing in the Toledo area
 - Troubleshooting, maintaining and repairing both site networks and hardware
 - Upholding communication and relationships between Fit support, clients and client vendors
+
 ### Allshred Services-Vital Records / Warehouse Manager
 June 2020 - May 2022,  Maumee, Ohio
 - Responsible for handling and processing of sensitive materials for Vital Records’ primary shredding facility
