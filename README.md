@@ -3,8 +3,8 @@ Sebastien Johnson, Back-end Developer
 
 ## Contacts
 - [Github](https://github.com/Sebastien-Johnson)
-- 419-514-0997
-- sebastien.z.johnson@gmail.com
+- [Email](mailto:sebastien.z.johnson@gmail.com)
+- Phone: 419-514-0997
 
 ## Languages & Libraries
 - Go, Python
