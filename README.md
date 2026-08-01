@@ -41,4 +41,3 @@ June 2020 - May 2022,  Maumee, Ohio
 ### School / St. Johns Jesuit Highschool & Academy
 - Java Programming Course
 - Lego Robotics & Engineering Courses
-- 3.2 GPA
