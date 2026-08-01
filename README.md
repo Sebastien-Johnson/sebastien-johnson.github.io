@@ -2,7 +2,7 @@
 Sebastien Johnson, Back-end Developer
 
 ## Contacts
-- https://github.com/Sebastien-Johnson
+- [Github](https://github.com/Sebastien-Johnson)
 - 419-514-0997
 - sebastien.z.johnson@gmail.com
 
