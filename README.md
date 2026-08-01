@@ -6,7 +6,7 @@ Sebastien Johnson, Back-end Developer
 - 419-514-0997
 - sebastien.z.johnson@gmail.com
 
-## Skills
+## Languages & Libraries
 - Go, Python
 - Django, SQLite
 - RabbitMQ, Docker
